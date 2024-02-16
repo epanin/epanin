@@ -23,3 +23,14 @@ I have been studying programming for more than 6 years. Started my career with 1
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/epanin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Courses 
+
+- <a href="https://stepik.org/cert/1266399?lang=en">"Python Generation": course for beginners</a>
+- <a href="https://stepik.org/cert/2270017?lang=en">"Python Generation": course for advanced</a>
+- <a href="https://ru.hexlet.io/programs/python">"Hexlet: Profession python-developer</a>
+
+### Books
+
+- "Head First Git" by Raju Gandhi
+- "Grokking Algorithms" Aditya Y. Bhargava
