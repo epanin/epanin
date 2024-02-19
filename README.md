@@ -29,6 +29,7 @@ I have been studying programming for more than 6 years. Started my career with 1
 - <a href="https://stepik.org/cert/1266399?lang=en">"Python Generation": course for beginners</a>
 - <a href="https://stepik.org/cert/2270017?lang=en">"Python Generation": course for advanced</a>
 - <a href="https://ru.hexlet.io/programs/python">"Hexlet: Profession python-developer</a>
+- DevOps для 1С. Онлайн-интенсив. А. Аюханов, А. Кунташов, Е. Ванжула
 
 ### Books
 
