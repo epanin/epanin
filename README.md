@@ -23,7 +23,7 @@ I have been studying programming for more than 6 years. Started my career with 1
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/epanin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
-<a href="t.me/eupanin" target="_blank" rel="noreferrer"><img src="files/Logo.svg" width="36" height="36" alt="1C" /></a></p>
+<a href="https://t.me/eupanin" target="_blank" rel="noreferrer"><img src="files/Logo.svg" width="36" height="36" alt="1C" /></a></p>
 
 ### Courses 
 
