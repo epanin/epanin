@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 1C developer
 ---------------------------------------
 
-I have been studying programming for more than 6 years. Started my career with 1C programming and currently working in the field of budgeting.
+I have been studying programming for more than 7 years. Started my career with 1C programming and currently working in the field of budgeting.
 
 *  I'm based in Saint-Petersburg
 *  You can contact me at [e.u.panin@yandex.ru](mailto:e.u.panin@yandex.ru)
